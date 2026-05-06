@@ -1,0 +1,8 @@
+UrjaSaathi is an AI-based energy tracking system that helps users monitor appliance-wise electricity usage and reduce energy bills through smart recommendations.
+
+Target Users:
+- Indian households
+- Smart home users
+
+Key Benefit:
+- Save 15-25% electricity cost
